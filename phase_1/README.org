@@ -1,0 +1,6 @@
+* Phase 1: Identify Larger AoIs
+
+** Part 1: Get a list of existing/pre-determined AoIs
+
+
+** Part 2: Discover new AoIs based on certain features
