@@ -1,0 +1,11 @@
+* Repo for my submission to OpenAItoZ challenge on Kaggle
+
+** Project Structure
+ + phase_0: Folder containing early experiments with downloading a sentinel-2 tile, and asking chatGPT to describe it.
+ + phase_1: Folder containing resources and code for identifying larger areas of interests (AoIs of about 10x10 km^2) for potential archeological sites.
+ +
+
+
+** Resources
+ + [[][Link to the competition on Kaggle]]
+ +
